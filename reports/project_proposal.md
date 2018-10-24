@@ -1,6 +1,6 @@
 Bayesian Language Classification
 ======
-Camille Girard and Jonah Spicher
+#### Camille Girard and Jonah Spicher
 
 For this project we would like to recognize the language of a word based on the phonemes in the word. If you were to overhear a word in a restaurant or on the street this program could tell you how likely it is to be a certain language based on the phonemes. Given a word and a predefined dataset of phoneme frequency  in each language being tested, this will return an updated probability that the observed word is in that language.
 
